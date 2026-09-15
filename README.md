@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Diksha Pal 👋
 
-<!--
-**dikshapal01/dikshapal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BBA Student | AI & ML Enthusiast | Business Analytics
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a second-year Bachelor of Business Administration (BBA) student at Allenhouse Business School. I am interested in Artificial Intelligence, Machine Learning, Business Analytics, Digital Technologies, and Digital Marketing.
+
+I am continuously developing my technical, analytical, communication, and business skills.
+
+## Skills
+
+- Microsoft Excel
+- Microsoft Word
+- PowerPoint
+- Digital Marketing
+- Social Media Content Creation
+- Communication
+- Teamwork
+- Time Management
+- Adaptability
+
+## Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Business Analytics
+- Data Analysis
+- Digital Marketing
+- Technology and Business
+
+## Education
+
+**Bachelor of Business Administration (BBA)**  
+Allenhouse Business School  
+CGPA: 8.0/10 | Expected Graduation: 2028
+
+**Intermediate**  
+UP Kirana Seva Samiti Balika Vidyalaya  
+Completed: 2025
+
+## Projects
+
+Coming soon 🚀
+
+## Internship
+
+**Digital Marketing and Social Media Content Creation Intern**
+
+- Created and supported social media content.
+- Developed communication and interpersonal skills.
+- Improved time-management and adaptability through practical activities.
+
+## Certifications & Achievements
+
+- Digital Marketing and Social Media Content Creation Internship Certificate
+- Certificates from participation and achievements in competitions
+
+## Contact
+
+📧 Email: paldiksha283@gmail.com
