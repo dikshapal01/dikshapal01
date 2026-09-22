@@ -29,4 +29,4 @@ I am a BBA student interested in Finance, Management and Digital Marketing.
 
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/diksha-pal-488340420?)
-[Enail](dikshapal283@gmail.com)
+[Email](dikshapal283@gmail.com)
